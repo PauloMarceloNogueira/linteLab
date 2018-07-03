@@ -1,2 +1,0 @@
-# linteLab
-Created with CodeSandbox
